@@ -7,4 +7,4 @@ RedWine1 is the first data mining code done for this dataset but since we could 
 
 RedWine2 is a better version of the fist because I was able to divide the attributes into two large groups without a significant distance between the two, that way our algorithm was able to actually choose between two values instead of one.
 
-Now we have WineQuality1 and WineQuality2 with KFold so our results are even more accurate in their predictions.
+Now we have WineQuality1 where even though we had PCA and Stratified KFold it wasn't enough and our model had a high accurancy which we know it is not like that. And WineQuality2 with KFold so our results are even more accurate in their predictions.
